@@ -1,0 +1,20 @@
+"""jumping"""
+def main():
+    """Jumping"""
+    num1 = str(1)
+    num2 = str(2)
+    num3 = str(3)
+    num4 = str(4)
+    print("Output"+num1)
+    print("Output"+num1)
+    print("Output"+num1)
+    print("Output"+num2)
+    print("Output"+num2)
+    print("Output"+num2)
+    print("Output"+num3)
+    print("Output"+num3)
+    print("Output"+num3)
+    print("Output"+num4)
+    print("Output"+num4)
+    print("Output"+num4)
+main()
